@@ -1,6 +1,6 @@
 {
-	"version": "0.1.0",
-	"notes": "Initial release.",
+	"version": "0.1.1",
+	"notes": "Second release.",
 	"pub_date": "2026-10-15T00:00:00Z",
 	"store_urls": {
 	"android": "https://play.google.com/store/apps/details?id=dev.vaultwise.app",
